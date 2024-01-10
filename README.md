@@ -1,0 +1,2 @@
+# RectangleAndSquare
+Exercise2
